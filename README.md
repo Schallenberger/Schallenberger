@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho como Front-end Developer
 - 🌱 Estou estudando JavaScript, React, VueJs...
-- 📫 Contate-me no email: schallenbergerbruno@gmail.com
 
 ##
 
