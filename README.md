@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Bruno Schallenberger (Sim, o sobrenome é difícil)
 
-- 🔭 Hoje trabalho como Front-end Developer
-- 🌱 Estou estudando JavaScript, React, VueJs...
+- 🔭 Hoje trabalho como Full-Stack Developer (.Net, C#, React, Ext, SQLServer)
 
 ##
 
