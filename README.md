@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Bruno Schallenberger (Sim, o sobrenome é difícil)
 
-- 🔭 Hoje trabalho como Full-Stack Developer (.Net, C#, React, Ext, SQLServer)
+- 🔭 Hoje trabalho como Full-Stack Developer (Node Js, React, Angular)
 
 ##
 
